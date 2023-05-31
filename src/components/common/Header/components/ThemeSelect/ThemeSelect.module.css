@@ -1,0 +1,9 @@
+.theme-select__button {
+  font-size: 1rem;
+  background-color: var(--background-secondary-color);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  gap: 0.5rem;
+  color: var(--text-color);
+}
